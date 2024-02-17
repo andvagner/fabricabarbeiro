@@ -1,0 +1,8 @@
+body.pv-new.pv-FB-40 .btn-icon-whatsapp-fixed,
+body.pv-new.pv-FB-40 .icon-whatsapp{
+	display: none!important;
+}
+
+body.pv-new.pv-FB-40 .btn-icon-whatsapp-fixed{
+	right: -50%;
+}

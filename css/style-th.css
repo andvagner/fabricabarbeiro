@@ -1,0 +1,27 @@
+.pv-new.pv-new-black.pv-FB-3C .preview-plataforma p{
+	text-align: center;
+	color: #fff;
+	font-size: 13px;
+}
+.pv-new.pv-new-black.pv-FB-3C .preview-plataforma img{
+	display: table;
+	margin: 0 auto;
+}
+.pv-new.pv-new-black.pv-FB-3C .btn{
+	border-radius: 4px;
+}
+
+
+
+@media (max-width: 767px){
+	/*body.pv-new.pv-new-black.pv-FB-30 .box-preco .preco-parcelado {
+	    font-size: 2.7em;
+	    line-height: 1.9em;
+	}*/
+}
+
+
+/* TEMPORÁRIO */
+/*.btn-icon-whatsapp-fixed, .pv-new .icon-whatsapp{
+	display: none!important;
+}*/
